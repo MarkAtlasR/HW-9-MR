@@ -15,11 +15,17 @@ p {
   border: 1.5px solid #e16162;
 }
 
-.one {
+.one{
   height: 25px;
   width: 200px;
 }
 
-.two {
+.two{
   padding: 10px 15px;
+}
+
+.three{
+  /* border-radius: 50%;  using a % for a highly rounded shape*/
+  border-radius: 10px;
+  
 }
